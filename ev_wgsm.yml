@@ -1,0 +1,16 @@
+name: ev_wgsm
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipywidgets=8.0.4=pyhd8ed1ab_0
+  - jupyterlab=3.6.1=pyhd8ed1ab_0
+  - numpy=1.22.3=py310hed7ac4c_2
+  - pandas=1.5.3=py310h1c4a608_0
+  - pip=22.3.1=py310haa95532_0
+  - python=3.10.9=h966fe2a_0
+  - scikit-image=0.19.3=py310h1c4a608_2
+  - scipy=1.10.0=py310h578b7cb_2
+  - ipympl=0.9.3=pyhd8ed1ab_0
+  - pip:
+    - opencv-python==4.7.0.68
